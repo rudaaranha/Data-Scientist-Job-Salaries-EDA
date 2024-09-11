@@ -33,3 +33,4 @@ Esse projeto tem o objetivo de fornecer uma visão ampla do cenário salarial na
 | company_size |The average number of people that worked for the company during the year: S less than 50 employees (small) M 50 to 250 employees (medium) L more than 250 employees (large) | 
 
 ## Link do dataset
+O dataset está disponível em: <a href="https://www.kaggle.com/datasets/ruchi798/data-science-job-salaries" target="_blank">Data Science Job Salaries</a>
